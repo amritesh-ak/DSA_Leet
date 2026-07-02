@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0090-subsets-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/amritesh-ak/DSA_Leet/tree/master/0138-copy-list-with-random-pointer) |
+## Linked List
+|  |
+| ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/amritesh-ak/DSA_Leet/tree/master/0138-copy-list-with-random-pointer) |
 <!---LeetCode Topics End-->
