@@ -4,10 +4,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
