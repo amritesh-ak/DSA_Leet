@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0090-subsets-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/amritesh-ak/DSA_Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Backtracking
 |  |
 | ------- |
@@ -23,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/amritesh-ak/DSA_Leet/tree/master/0138-copy-list-with-random-pointer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/amritesh-ak/DSA_Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
