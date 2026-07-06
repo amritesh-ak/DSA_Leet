@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritesh-ak/DSA_Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/amritesh-ak/DSA_Leet/tree/master/0152-maximum-product-subarray) |
+| [0216-combination-sum-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0216-combination-sum-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/amritesh-ak/DSA_Leet/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/amritesh-ak/DSA_Leet/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
