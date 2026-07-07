@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritesh-ak/DSA_Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/amritesh-ak/DSA_Leet/tree/master/0152-maximum-product-subarray) |
 | [0216-combination-sum-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0216-combination-sum-iii) |
+| [0455-assign-cookies](https://github.com/amritesh-ak/DSA_Leet/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
 | ------- |
@@ -36,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritesh-ak/DSA_Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/amritesh-ak/DSA_Leet/tree/master/0152-maximum-product-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/amritesh-ak/DSA_Leet/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/amritesh-ak/DSA_Leet/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/amritesh-ak/DSA_Leet/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
