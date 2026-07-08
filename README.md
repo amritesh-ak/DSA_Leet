@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/amritesh-ak/DSA_Leet/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/amritesh-ak/DSA_Leet/tree/master/0860-lemonade-change) |
+| [1672-richest-customer-wealth](https://github.com/amritesh-ak/DSA_Leet/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
 |  |
 | ------- |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/amritesh-ak/DSA_Leet/tree/master/0455-assign-cookies) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/amritesh-ak/DSA_Leet/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
