@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/amritesh-ak/DSA_Leet/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/amritesh-ak/DSA_Leet/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/amritesh-ak/DSA_Leet/tree/master/0860-lemonade-change) |
+| [1550-three-consecutive-odds](https://github.com/amritesh-ak/DSA_Leet/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/amritesh-ak/DSA_Leet/tree/master/1672-richest-customer-wealth) |
 ## Backtracking
 |  |
