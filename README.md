@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/amritesh-ak/DSA_Leet/tree/master/0860-lemonade-change) |
 | [1550-three-consecutive-odds](https://github.com/amritesh-ak/DSA_Leet/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/amritesh-ak/DSA_Leet/tree/master/1672-richest-customer-wealth) |
+| [2942-find-words-containing-character](https://github.com/amritesh-ak/DSA_Leet/tree/master/2942-find-words-containing-character) |
 ## Backtracking
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/amritesh-ak/DSA_Leet/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [2942-find-words-containing-character](https://github.com/amritesh-ak/DSA_Leet/tree/master/2942-find-words-containing-character) |
 <!---LeetCode Topics End-->
