@@ -73,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2942-find-words-containing-character](https://github.com/amritesh-ak/DSA_Leet/tree/master/2942-find-words-containing-character) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/amritesh-ak/DSA_Leet/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
