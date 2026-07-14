@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/amritesh-ak/DSA_Leet/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/amritesh-ak/DSA_Leet/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/amritesh-ak/DSA_Leet/tree/master/0055-jump-game) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amritesh-ak/DSA_Leet/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritesh-ak/DSA_Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/amritesh-ak/DSA_Leet/tree/master/0152-maximum-product-subarray) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amritesh-ak/DSA_Leet/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/amritesh-ak/DSA_Leet/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/amritesh-ak/DSA_Leet/tree/master/0435-non-overlapping-intervals) |
