@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2942-find-words-containing-character](https://github.com/amritesh-ak/DSA_Leet/tree/master/2942-find-words-containing-character) |
+| [3019-number-of-changing-keys](https://github.com/amritesh-ak/DSA_Leet/tree/master/3019-number-of-changing-keys) |
 ## Enumeration
 |  |
 | ------- |
