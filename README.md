@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/amritesh-ak/DSA_Leet/tree/master/0881-boats-to-save-people) |
 | [1550-three-consecutive-odds](https://github.com/amritesh-ak/DSA_Leet/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/amritesh-ak/DSA_Leet/tree/master/1672-richest-customer-wealth) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2942-find-words-containing-character](https://github.com/amritesh-ak/DSA_Leet/tree/master/2942-find-words-containing-character) |
 ## Backtracking
 |  |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/amritesh-ak/DSA_Leet/tree/master/0402-remove-k-digits) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
