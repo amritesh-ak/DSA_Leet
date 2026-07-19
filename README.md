@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/amritesh-ak/DSA_Leet/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/amritesh-ak/DSA_Leet/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/amritesh-ak/DSA_Leet/tree/master/0881-boats-to-save-people) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amritesh-ak/DSA_Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/amritesh-ak/DSA_Leet/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amritesh-ak/DSA_Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2942-find-words-containing-character](https://github.com/amritesh-ak/DSA_Leet/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/amritesh-ak/DSA_Leet/tree/master/3019-number-of-changing-keys) |
 ## Enumeration
@@ -95,10 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/amritesh-ak/DSA_Leet/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amritesh-ak/DSA_Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/amritesh-ak/DSA_Leet/tree/master/0402-remove-k-digits) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/amritesh-ak/DSA_Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
 | ------- |
