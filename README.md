@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/amritesh-ak/DSA_Leet/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/amritesh-ak/DSA_Leet/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/amritesh-ak/DSA_Leet/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/amritesh-ak/DSA_Leet/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/amritesh-ak/DSA_Leet/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/amritesh-ak/DSA_Leet/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/amritesh-ak/DSA_Leet/tree/master/0881-boats-to-save-people) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/amritesh-ak/DSA_Leet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/amritesh-ak/DSA_Leet/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/amritesh-ak/DSA_Leet/tree/master/0435-non-overlapping-intervals) |
+| [0486-predict-the-winner](https://github.com/amritesh-ak/DSA_Leet/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/amritesh-ak/DSA_Leet/tree/master/0486-predict-the-winner) |
 | [1903-largest-odd-number-in-string](https://github.com/amritesh-ak/DSA_Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -182,4 +185,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/amritesh-ak/DSA_Leet/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/amritesh-ak/DSA_Leet/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
