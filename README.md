@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/amritesh-ak/DSA_Leet/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2942-find-words-containing-character](https://github.com/amritesh-ak/DSA_Leet/tree/master/2942-find-words-containing-character) |
+| [3731-find-missing-elements](https://github.com/amritesh-ak/DSA_Leet/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/amritesh-ak/DSA_Leet/tree/master/0138-copy-list-with-random-pointer) |
+| [3731-find-missing-elements](https://github.com/amritesh-ak/DSA_Leet/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/amritesh-ak/DSA_Leet/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/amritesh-ak/DSA_Leet/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
