@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/amritesh-ak/DSA_Leet/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/amritesh-ak/DSA_Leet/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Stack
 |  |
 | ------- |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/amritesh-ak/DSA_Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/amritesh-ak/DSA_Leet/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Number Theory
 |  |
 | ------- |
