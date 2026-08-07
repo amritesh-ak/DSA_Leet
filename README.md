@@ -46,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/amritesh-ak/DSA_Leet/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/amritesh-ak/DSA_Leet/tree/master/0146-lru-cache) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3731-find-missing-elements](https://github.com/amritesh-ak/DSA_Leet/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/amritesh-ak/DSA_Leet/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/amritesh-ak/DSA_Leet/tree/master/0146-lru-cache) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -240,4 +242,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/amritesh-ak/DSA_Leet/tree/master/3310-remove-methods-from-project) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/amritesh-ak/DSA_Leet/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/amritesh-ak/DSA_Leet/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
