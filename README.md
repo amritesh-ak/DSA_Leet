@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/amritesh-ak/DSA_Leet/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/amritesh-ak/DSA_Leet/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/0977-squares-of-a-sorted-array) |
+| [1140-stone-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/amritesh-ak/DSA_Leet/tree/master/1550-three-consecutive-odds) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/amritesh-ak/DSA_Leet/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/amritesh-ak/DSA_Leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/amritesh-ak/DSA_Leet/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritesh-ak/DSA_Leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/amritesh-ak/DSA_Leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/amritesh-ak/DSA_Leet/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1406-stone-game-iii) |
 | [1903-largest-odd-number-in-string](https://github.com/amritesh-ak/DSA_Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/amritesh-ak/DSA_Leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/amritesh-ak/DSA_Leet/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1406-stone-game-iii) |
 ## Database
 |  |
@@ -258,10 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1406-stone-game-iii) |
 ## Graph Theory
 |  |
@@ -275,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/amritesh-ak/DSA_Leet/tree/master/0146-lru-cache) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
