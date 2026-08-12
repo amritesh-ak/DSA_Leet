@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/amritesh-ak/DSA_Leet/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/amritesh-ak/DSA_Leet/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritesh-ak/DSA_Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/amritesh-ak/DSA_Leet/tree/master/0134-gas-station) |
 | [0152-maximum-product-subarray](https://github.com/amritesh-ak/DSA_Leet/tree/master/0152-maximum-product-subarray) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/amritesh-ak/DSA_Leet/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/amritesh-ak/DSA_Leet/tree/master/0146-lru-cache) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amritesh-ak/DSA_Leet/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0110-balanced-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amritesh-ak/DSA_Leet/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -319,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amritesh-ak/DSA_Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
