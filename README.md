@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/amritesh-ak/DSA_Leet/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/amritesh-ak/DSA_Leet/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/amritesh-ak/DSA_Leet/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2942-find-words-containing-character](https://github.com/amritesh-ak/DSA_Leet/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amritesh-ak/DSA_Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amritesh-ak/DSA_Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/amritesh-ak/DSA_Leet/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amritesh-ak/DSA_Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/amritesh-ak/DSA_Leet/tree/master/1903-largest-odd-number-in-string) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/amritesh-ak/DSA_Leet/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2942-find-words-containing-character](https://github.com/amritesh-ak/DSA_Leet/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/amritesh-ak/DSA_Leet/tree/master/3019-number-of-changing-keys) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritesh-ak/DSA_Leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -332,4 +334,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/amritesh-ak/DSA_Leet/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/amritesh-ak/DSA_Leet/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
