@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/amritesh-ak/DSA_Leet/tree/master/1550-three-consecutive-odds) |
+| [1563-stone-game-v](https://github.com/amritesh-ak/DSA_Leet/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/amritesh-ak/DSA_Leet/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/amritesh-ak/DSA_Leet/tree/master/2029-stone-game-ix) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/amritesh-ak/DSA_Leet/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/amritesh-ak/DSA_Leet/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritesh-ak/DSA_Leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Two Pointers
 |  |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/amritesh-ak/DSA_Leet/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/amritesh-ak/DSA_Leet/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/amritesh-ak/DSA_Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/amritesh-ak/DSA_Leet/tree/master/2029-stone-game-ix) |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/amritesh-ak/DSA_Leet/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/amritesh-ak/DSA_Leet/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/amritesh-ak/DSA_Leet/tree/master/2029-stone-game-ix) |
 ## Database
 |  |
