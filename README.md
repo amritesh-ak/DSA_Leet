@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/amritesh-ak/DSA_Leet/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [1140-stone-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/amritesh-ak/DSA_Leet/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1550-three-consecutive-odds](https://github.com/amritesh-ak/DSA_Leet/tree/master/1550-three-consecutive-odds) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/amritesh-ak/DSA_Leet/tree/master/0222-count-complete-tree-nodes) |
+| [1386-cinema-seat-allocation](https://github.com/amritesh-ak/DSA_Leet/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/amritesh-ak/DSA_Leet/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/amritesh-ak/DSA_Leet/tree/master/0146-lru-cache) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1386-cinema-seat-allocation](https://github.com/amritesh-ak/DSA_Leet/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amritesh-ak/DSA_Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amritesh-ak/DSA_Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amritesh-ak/DSA_Leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -113,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/amritesh-ak/DSA_Leet/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/amritesh-ak/DSA_Leet/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amritesh-ak/DSA_Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/amritesh-ak/DSA_Leet/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/amritesh-ak/DSA_Leet/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/amritesh-ak/DSA_Leet/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/amritesh-ak/DSA_Leet/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
