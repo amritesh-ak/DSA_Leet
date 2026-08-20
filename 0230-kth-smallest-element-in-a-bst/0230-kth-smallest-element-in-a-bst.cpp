@@ -11,16 +11,22 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* node , vector<int>& ans){
-        if(node==NULL) return ;
+    // the main question is to save space !
+    void inorder(TreeNode* node , int& count,int &ans , int k){
+        if(node==NULL) return;
 
-        inorder(node->left,ans);
-        ans.push_back(node->val);
-        inorder(node->right,ans);
+        inorder(node->left,count,ans,k);
+        count++;
+        if(count==k) {
+            ans=node->val;
+            return;
+        }
+        inorder(node->right,count,ans,k);
     }
     int kthSmallest(TreeNode* root, int k) {
-        vector<int> ans;
-        inorder(root , ans);
-        return ans[k-1];
+        int ans=0;
+        int count=0;
+        inorder(root , count ,ans , k);
+        return ans;
     }
 };
