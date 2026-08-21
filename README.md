@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/amritesh-ak/DSA_Leet/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/amritesh-ak/DSA_Leet/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/0977-squares-of-a-sorted-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1140-stone-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/amritesh-ak/DSA_Leet/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1406-stone-game-iii) |
@@ -165,11 +166,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/amritesh-ak/DSA_Leet/tree/master/0402-remove-k-digits) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amritesh-ak/DSA_Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/amritesh-ak/DSA_Leet/tree/master/0402-remove-k-digits) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amritesh-ak/DSA_Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Math
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/amritesh-ak/DSA_Leet/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0993-cousins-in-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/amritesh-ak/DSA_Leet/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
 |  |
@@ -423,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/amritesh-ak/DSA_Leet/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Counting
 |  |
 | ------- |
