@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/amritesh-ak/DSA_Leet/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/amritesh-ak/DSA_Leet/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0547-number-of-provinces](https://github.com/amritesh-ak/DSA_Leet/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/amritesh-ak/DSA_Leet/tree/master/0547-number-of-provinces) |
 | [3310-remove-methods-from-project](https://github.com/amritesh-ak/DSA_Leet/tree/master/3310-remove-methods-from-project) |
 ## Design
 |  |
@@ -461,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/amritesh-ak/DSA_Leet/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/amritesh-ak/DSA_Leet/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
