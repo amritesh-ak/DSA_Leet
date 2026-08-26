@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/amritesh-ak/DSA_Leet/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/amritesh-ak/DSA_Leet/tree/master/0257-binary-tree-paths) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Bit Manipulation
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/amritesh-ak/DSA_Leet/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/amritesh-ak/DSA_Leet/tree/master/0402-remove-k-digits) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amritesh-ak/DSA_Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amritesh-ak/DSA_Leet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/amritesh-ak/DSA_Leet/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/amritesh-ak/DSA_Leet/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0543-diameter-of-binary-tree) |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amritesh-ak/DSA_Leet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/amritesh-ak/DSA_Leet/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/amritesh-ak/DSA_Leet/tree/master/0547-number-of-provinces) |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amritesh-ak/DSA_Leet/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/amritesh-ak/DSA_Leet/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/amritesh-ak/DSA_Leet/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0543-diameter-of-binary-tree) |
