@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amritesh-ak/DSA_Leet/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/amritesh-ak/DSA_Leet/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritesh-ak/DSA_Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amritesh-ak/DSA_Leet/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/amritesh-ak/DSA_Leet/tree/master/0152-maximum-product-subarray) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/amritesh-ak/DSA_Leet/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/amritesh-ak/DSA_Leet/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/amritesh-ak/DSA_Leet/tree/master/0402-remove-k-digits) |
