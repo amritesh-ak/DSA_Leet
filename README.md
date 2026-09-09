@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/amritesh-ak/DSA_Leet/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/amritesh-ak/DSA_Leet/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/amritesh-ak/DSA_Leet/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amritesh-ak/DSA_Leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/amritesh-ak/DSA_Leet/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/amritesh-ak/DSA_Leet/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/amritesh-ak/DSA_Leet/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/amritesh-ak/DSA_Leet/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/1140-stone-game-ii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/amritesh-ak/DSA_Leet/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0101-symmetric-tree) |
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/amritesh-ak/DSA_Leet/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0101-symmetric-tree) |
@@ -499,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/amritesh-ak/DSA_Leet/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/amritesh-ak/DSA_Leet/tree/master/0230-kth-smallest-element-in-a-bst) |
