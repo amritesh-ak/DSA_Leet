@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1386-cinema-seat-allocation](https://github.com/amritesh-ak/DSA_Leet/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/amritesh-ak/DSA_Leet/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amritesh-ak/DSA_Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amritesh-ak/DSA_Leet/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amritesh-ak/DSA_Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/amritesh-ak/DSA_Leet/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/amritesh-ak/DSA_Leet/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amritesh-ak/DSA_Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/amritesh-ak/DSA_Leet/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amritesh-ak/DSA_Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/amritesh-ak/DSA_Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/amritesh-ak/DSA_Leet/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/amritesh-ak/DSA_Leet/tree/master/2029-stone-game-ix) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amritesh-ak/DSA_Leet/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amritesh-ak/DSA_Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amritesh-ak/DSA_Leet/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/amritesh-ak/DSA_Leet/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3731-find-missing-elements](https://github.com/amritesh-ak/DSA_Leet/tree/master/3731-find-missing-elements) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/amritesh-ak/DSA_Leet/tree/master/0402-remove-k-digits) |
 | [0940-distinct-subsequences-ii](https://github.com/amritesh-ak/DSA_Leet/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/amritesh-ak/DSA_Leet/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/amritesh-ak/DSA_Leet/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/amritesh-ak/DSA_Leet/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/amritesh-ak/DSA_Leet/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/amritesh-ak/DSA_Leet/tree/master/2213-longest-substring-of-one-repeating-character) |
