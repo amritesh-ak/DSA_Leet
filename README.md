@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amritesh-ak/DSA_Leet/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amritesh-ak/DSA_Leet/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/amritesh-ak/DSA_Leet/tree/master/0138-copy-list-with-random-pointer) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amritesh-ak/DSA_Leet/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/amritesh-ak/DSA_Leet/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/amritesh-ak/DSA_Leet/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/amritesh-ak/DSA_Leet/tree/master/0013-roman-to-integer) |
 | [0096-unique-binary-search-trees](https://github.com/amritesh-ak/DSA_Leet/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/amritesh-ak/DSA_Leet/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/amritesh-ak/DSA_Leet/tree/master/0836-rectangle-overlap) |
