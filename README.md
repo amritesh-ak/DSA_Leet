@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/amritesh-ak/DSA_Leet/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/amritesh-ak/DSA_Leet/tree/master/0058-length-of-last-word) |
 | [0115-distinct-subsequences](https://github.com/amritesh-ak/DSA_Leet/tree/master/0115-distinct-subsequences) |
 | [0257-binary-tree-paths](https://github.com/amritesh-ak/DSA_Leet/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amritesh-ak/DSA_Leet/tree/master/0297-serialize-and-deserialize-binary-tree) |
